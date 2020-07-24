@@ -1,5 +1,9 @@
 # Image Captioning Final Project
 
+View Notebook : https://colab.research.google.com/github/czynot/Image_Captioning_Final_Project/blob/master/week6_final_project_image_captioning_clean.ipynb
+
+(The notebook does not seem to work on nbviewer because some widget metadata might be violating the JSON schema of Jupyter. View it in Colab instead)
+
 This repository contains the final project for the course Introduction to Deep Learning by National Research University Higher School of Economics.
 
 Course Link : https://www.coursera.org/learn/intro-to-deep-learning/
